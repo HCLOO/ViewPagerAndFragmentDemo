@@ -1,0 +1,2 @@
+# ViewPagerAndFragmentDemo
+Android 实现ViewPager搭配Indicator进行切换Fragment的功能（个人Demo）
